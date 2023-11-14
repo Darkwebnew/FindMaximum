@@ -1,4 +1,4 @@
-# EX - 3a :Find the maximum of a list of numbers
+# Find the maximum of a list of numbers
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
